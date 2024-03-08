@@ -20,5 +20,6 @@ public class Bai3 {
         else {
             System.out.println("Ban "+name+" o do tuoi vi thanh nien");
         }
+        input.close();
     }
 }
