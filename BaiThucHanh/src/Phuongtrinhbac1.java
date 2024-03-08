@@ -16,5 +16,6 @@ public class Phuongtrinhbac1 {
         else System.out.println("Phuong trinh khong ton tai do a phai khac 0 ");
         }
         else System.out.println("Phuong trinh cua nghiem la x = "+(-b/a));
+        sc.close();
     }
 }
