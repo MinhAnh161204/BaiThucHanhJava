@@ -25,5 +25,6 @@ public class Slide81chuong2 {
             }
         }
         System.out.println("Phan tu lon nhat trong ma tran la: " +max);
+        sc.close();
     }
 }
