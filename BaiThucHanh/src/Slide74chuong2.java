@@ -12,6 +12,7 @@ public class Slide74chuong2 {
           do {
             System.out.print("Nhap vao so phan tu cua mang: ");
             n = sc.nextInt();
+            sc.close();
 
           } while (n<0) ;
           int A[] = new int[n];
