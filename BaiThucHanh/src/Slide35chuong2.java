@@ -12,5 +12,6 @@ public class Slide35chuong2 {
         if(a>b) System.out.println("A > B");
         else if(b>a) System.out.println("B > A");
         else System.out.println("A = B");
+        input.close();
     }
 }
