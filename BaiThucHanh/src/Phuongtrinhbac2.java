@@ -11,6 +11,7 @@ public class Phuongtrinhbac2 {
         b = sc.nextDouble();
         System.out.print("Nhap gia tri cho c : ");
         c = sc.nextDouble();
+        sc.close();
         double denta = b*b - 4*a*c;
         if(a == 0) {
             if(b==0) {
