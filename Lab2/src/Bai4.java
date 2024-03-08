@@ -49,5 +49,6 @@ public class Bai4 {
             default:
                 break;
         }
+        input.close();
     }
 }
