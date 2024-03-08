@@ -15,5 +15,6 @@ public class Slide30chuong2 {
             sumOfNumbers += soDu;
         }
         System.out.println("Tong cac chu so la : "+sumOfNumbers);
+        input.close();
     }
 }
