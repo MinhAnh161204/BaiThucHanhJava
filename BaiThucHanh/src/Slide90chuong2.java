@@ -12,6 +12,5 @@ public class Slide90chuong2 {
             kyTu = chuoi.charAt(i);
             System.out.println(kyTu);
         }
-        sc.close();
     }
 }
