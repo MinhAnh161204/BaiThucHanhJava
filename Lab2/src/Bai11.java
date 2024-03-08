@@ -25,5 +25,6 @@ public class Bai11 {
             System.out.print("Nhap phan tu thu " + (i + 1) + ": ");
             arr[i] = scanner.nextInt();
         }
+        scanner.close();
     }
 }
