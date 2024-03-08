@@ -26,6 +26,7 @@ public class Bai12 {
                 System.out.print("Nhap phan tu [" + i + "][" + j + "]: ");
                 maTran[i][j] = scanner.nextInt();
             }
+            scanner.close();
         }
     }
 
