@@ -13,5 +13,6 @@ public class Bai5 {
             reString = reString + n + " + ";
         }
         System.out.println(reString.substring(0,reString.length()-2)+ "= "+sum);
+        input.close();
     }
 }
