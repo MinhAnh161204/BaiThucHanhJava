@@ -13,5 +13,6 @@ public class Slide47chuong2 {
             System.out.println("Gia tri tong hien tai la : "+sum);
         }
         System.out.println("Gia tri sau khi ra ngoai vong lap la : "+sum);
+        input.close();
     }
 }
