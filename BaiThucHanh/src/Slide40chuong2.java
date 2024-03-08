@@ -30,5 +30,6 @@ public class Slide40chuong2 {
                 System.out.println("Ngay nhap khong hop le");
                 break;
         }
+        input.close();
     }
 }
