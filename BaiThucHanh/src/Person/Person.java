@@ -22,11 +22,10 @@ public class Person {
     {
         System.out.print("FullName = ");
         FullName = sc.nextLine();
-        System.out.print("Age = ");
-        Age = sc.nextInt();
-        sc.nextLine();
         System.out.print("Address = ");
         Address = sc.nextLine();
+        System.out.print("Age = ");
+        Age = sc.nextInt();
         System.out.print("So dien thoai = ");
         SDT = sc.nextInt();
     }
