@@ -15,7 +15,7 @@ public class Slide22chuong4 {
         colors.add("Yellow");
 
         System.out.println(colors.get(1));
-        System.out.println(colors.contains("Oragne"));
+        System.out.println(colors.contains("Orange"));
         System.out.println(colors.size());
         System.out.println(colors);
     }
