@@ -15,7 +15,6 @@ public class Slide57chuong4 {
         hashSetString.add("Chinh");
         hashSetString.add("Minh");
         hashSetString.remove("Wilson");
-        hashSetString.contains("Vinh");
 
         System.out.println("Cac phan tu trong hashSetString la: ");
         System.out.println(hashSetString);
